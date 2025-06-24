@@ -1,6 +1,6 @@
 <h1>Conversor de moedas</h1>
 
-<h2>Projeto de estudo no <a href="https://rodolfomori.com.br/devclub>DevClub"</a> criando conversor de moedas,projeto responsivo.</h2>
+<h2>Projeto de estudo de conversor de moedas,prjeto responsivo no <a href="https://rodolfomori.com.br/devclub>DevClub"</a>DevClub</h2>
 
 <h3>Tecnologias</h3>
 
